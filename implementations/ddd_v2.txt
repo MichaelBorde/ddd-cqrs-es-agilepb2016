@@ -1,0 +1,14 @@
+client -> resource (post, put) -> command -> domain model
+             (get)       -> search  -> domain model / database
+
+> Command
+CreateAccountService
+
+> Search
+FindAccountById
+FindAccounts
+
+> Domain model
+Account
+AccountRepository
+TransactionAddedToAccountEvent

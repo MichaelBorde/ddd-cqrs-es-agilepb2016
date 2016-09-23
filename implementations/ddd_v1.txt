@@ -1,0 +1,12 @@
+client -> resource -> application -> domain model
+
+> resource
+/accounts (get, post)
+/accounts/3 (get, put)
+
+> application
+AccountService
+
+> domain model
+Account
+AccountRepository
