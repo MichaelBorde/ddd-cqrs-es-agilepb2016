@@ -16,8 +16,8 @@
 
 ## Du code
 
-[money-sample-api](https://github.com/arpinum-js-engine/money-sample-api)
-[arpinum-js-engine](https://github.com/arpinum-js-engine)
+* [money-sample-api](https://github.com/arpinum-js-engine/money-sample-api)
+* [arpinum-js-engine](https://github.com/arpinum-js-engine)
 
 ## Grille de bingo
 
